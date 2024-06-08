@@ -23,7 +23,7 @@ main {
     padding: 15px;
 }
 
-.playlist-cards-list {
+.playlist-cards {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
