@@ -49,9 +49,7 @@ Estimated time spent: **19** hours spent in total
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+![Feature Demo](https://github.com/chu-andrew/site-unit2-project1-music-playlist-explorer-starter-2/blob/53039c5aa384c387a130e2e2f9a6c0e0404c12a4/demo.gif)
 
 ### Reflection
 
