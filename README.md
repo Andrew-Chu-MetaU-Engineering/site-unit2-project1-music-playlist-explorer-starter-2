@@ -49,7 +49,7 @@ Estimated time spent: **19** hours spent in total
 
 ### Walkthrough Video
 
-![Feature Demo](https://github.com/chu-andrew/site-unit2-project1-music-playlist-explorer-starter-2/blob/53039c5aa384c387a130e2e2f9a6c0e0404c12a4/demo.gif)
+![Feature Demo](https://github.com/chu-andrew/site-unit2-project1-music-playlist-explorer-starter-2/blob/b47d1358a024b6a90c6d73be9a459abcdab6c2b6/demo.gif)
 
 ### Reflection
 
